@@ -1,0 +1,37 @@
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 200px;
+    
+}
+.btndiv{
+    margin-left: 630px;
+    
+}
+.btn1{
+    margin-right: 20px;
+}
+.btn2{
+    margin-right: 20px;
+}
+.numbers{
+    height: 150px;
+    text-align: center;
+    font-size: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn1:hover {
+    color: white;
+    background-color: black;
+}
+.btn2:hover {
+    color: white;
+    background-color: black;
+}
+.btn3:hover {
+    color: white;
+    background-color: black;
+}
